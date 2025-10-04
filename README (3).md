@@ -1,8 +1,9 @@
 # Building-an-AI-Classifier-Identifying-Cats-Dogs-Pandas-with-PyTorch
+#### Name: vignesh R
+#### Reg No: 212223240177
+#  Cats vs Dogs vs Pandas – Image Classification with PyTorch  
 
-# 🐱🐶🐼 Cats vs Dogs vs Pandas – Image Classification with PyTorch  
-
-## 📌 Overview  
+##  Overview  
 This project is an **image classification model** that predicts whether an image is a **cat, dog, or panda** using **transfer learning (ResNet18)** in **PyTorch**.  
 
 We use the **Cats vs Dogs vs Pandas dataset** from Kaggle and train with GPU support.  
@@ -16,9 +17,9 @@ The project follows these steps:
 
 ---
 
-## ⚡ Dataset  
+## Dataset  
 We used the dataset:  
-👉 [Cats, Dogs, Pandas Dataset on Kaggle]((https://www.kaggle.com/datasets/ashishsaxena2209/animal-image-datasetdog-cat-and-panda?utm_source=chatgpt.com))  
+ [Cats, Dogs, Pandas Dataset on Kaggle]((https://www.kaggle.com/datasets/ashishsaxena2209/animal-image-datasetdog-cat-and-panda?utm_source=chatgpt.com))  
 
 Download inside your notebook/repo:  
 ```bash
@@ -177,7 +178,8 @@ def predict_image(image_path):
 
 ## Output
 
-![alt text](image.png)
+<img width="739" height="741" alt="image" src="https://github.com/user-attachments/assets/f07deaee-5174-4eec-ac78-4d475b4c4793" />
+
 
 ## Result
 
